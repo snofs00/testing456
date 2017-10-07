@@ -1,0 +1,13 @@
+github info
+
+username
+kearsleyrobotics
+
+email
+kearsleyfrc5150@gmail.com
+
+password
+frcteam5150
+
+Organization name
+kearsleyroboticsmanagment
